@@ -1,6 +1,5 @@
 ### Olá, como vai?
-Sou o Guilherme,
-  Sou estudante de JS
+Sou o Guilherme, sou estudante de FullStack no CTD pela Digital House
 <div>
  <a href="https://github.com/guiiaquinto">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiiaquinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
