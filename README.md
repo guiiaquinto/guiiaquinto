@@ -1,4 +1,5 @@
-### Oi, eu sou o Guilherme:👋
+### Olá, como vai?
+Sou o Guilherme,
   Sou estudante de JS
 <div>
  <a href="https://github.com/guiiaquinto">
